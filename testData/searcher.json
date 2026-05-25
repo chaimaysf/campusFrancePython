@@ -1,0 +1,19 @@
+{
+    "profile": "Chercheur",
+    "email": "test.chercheur.2026a@mailinator.com",
+    "password": "TestAuto@2024!",
+    "confirmPassword": "TestAuto@2024!",
+    "civility": "Mr",
+    "firstName": "Karim",
+    "lastName": "Meziani",
+    "countryOfResidence": "Canada",
+    "countryOfResidenceValue": "109",
+    "nationality": "Canada",
+    "postCode": "16000",
+    "city": "Toronto",
+    "phone": "0600000000",
+    "studyField": "Chimie",
+    "studyFieldValue": "323",
+    "studyLevel": "Doctorat / PHD",
+    "studyLevelValue": "508"
+}

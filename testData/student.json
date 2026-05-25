@@ -1,0 +1,19 @@
+{
+    "profile": "Etudiant",
+    "email": "test.etudiant.2026a@mailinator.com",
+    "password": "TestAuto@2024!",
+    "confirmPassword": "TestAuto@2024!",
+    "civility": "Mme",
+    "firstName": "Sara",
+    "lastName": "Benali",
+    "countryOfResidence": "Maroc",
+    "countryOfResidenceValue": "109",
+    "nationality": "Maroc",
+    "postCode": "16000",
+    "city": "Casablanca",
+    "phone": "0600000000",
+    "studyField": "Chimie",
+    "studyFieldValue": "323",
+    "studyLevel": "Licence 3",
+    "studyLevelValue": "479"
+}
